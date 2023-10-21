@@ -1,4 +1,4 @@
-body
+terbody
 {
   color:#211150;
   background:#c7c7c7;
@@ -19,6 +19,14 @@ header p
 
 article
 {
+  text-align:center;
+}
+
+article p
+{
+  width:50%;
+  margin-left:auto;
+  margin-right:auto;
   text-align:justify;
 }
 
