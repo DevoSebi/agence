@@ -9,8 +9,13 @@ article
   text-align:center;
 }
 
+h1
+{
+  font-family:"lora",Georgia,sans-serif;
+}
 h2
 {
+  font-family:"lora",Georgia,sans-serif;
   color:#FFFFFF;
   background:#211150;
 }
