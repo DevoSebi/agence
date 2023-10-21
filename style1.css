@@ -4,6 +4,11 @@ body
   background:#c7c7c7;
 }
 
+article
+{
+  text-align:center;
+}
+
 h2
 {
   color:#FFFFFF;
