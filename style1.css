@@ -4,15 +4,22 @@ body
   background:#c7c7c7;
 }
 
+h1
+{
+  font-family:"lora",Georgia,sans-serif;
+  margin-bottom:0;
+}
+
+header p
+{
+  margin-top:0;
+}
+
 article
 {
   text-align:center;
 }
 
-h1
-{
-  font-family:"lora",Georgia,sans-serif;
-}
 h2
 {
   font-family:"lora",Georgia,sans-serif;
@@ -20,6 +27,8 @@ h2
   background:#211150;
   padding-top:1.25em;
   padding-bottom:1.25em;
+  margin-left:0;
+  margin-right:0;
 }
 
 ul
